@@ -5,23 +5,24 @@ Welcome to the "Global Terrorism Dataset Analysis with Data Visualization" proje
 
 # Table of Contents
 1. Suammary
-2. What is there in data
-3. Data Cleaning
-4. Data Visualization
-5. Yearwise attack
-6. Yearwise Killings
-7. Yearwise casuality
-8. Comapring attack and casuality chart
-9. Region wise attack
-10. Region wise distribution of terrerist attack from 1970 to 2017
-11. Yearwise attacks on Region
-12. Region wise killings
-13. Treeorist group attack Region wise
-14. Terrorist Group
-15. Killings by Terrorist group
-16. Country wise Data
-17. Types of Attacks
-18. Observations.
+2. Problem Statement
+3. What is there in data
+4. Data Cleaning
+5. Data Visualization
+6. Yearwise attack
+7. Yearwise Killings
+8. Yearwise casuality
+9. Comapring attack and casuality chart
+10. Region wise attack
+11. Region wise distribution of terrerist attack from 1970 to 2017
+12. Yearwise attacks on Region
+13. Region wise killings
+14. Treeorist group attack Region wise
+15. Terrorist Group
+16. Killings by Terrorist group
+17. Country wise Data
+18. Types of Attacks
+19. Observations.
 
 # Overview
 Understanding the complex landscape of global terrorism requires not only comprehensive data but also effective visualization techniques. This project combines the power of Python and data visualization libraries to provide a clear and engaging analysis of the GTD. Our visualizations offer valuable insights into attack types, trends over time, and more.
